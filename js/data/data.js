@@ -40,11 +40,6 @@ const TRABAJOS = [
         ],
         tareas: [
             {
-                name: "Trabajo Sem 3",
-                url: "https://docs.google.com/document/d/1CRXeCdHmU6a48y2cex0SZO-0KOa0Tp5GKUfctnkp150/edit?usp=sharing",
-                type: "word",
-            },
-            {
                 name: "Ejercicios Lisp",
                 url: "https://docs.google.com/document/d/1bE8syQ5h76pS8mcfSOzSjJgLxeawfxaa/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
                 type: "word",
