@@ -34,11 +34,22 @@ const TRABAJOS = [
         clases: [
             {
                 name: "Clase 03",
-                url: "https://docs.google.com/presentation/d/1gXSVTcMAdZ0G_bkb5Ufz9aWjbK9Hm1XU/edit?usp=sharing&ouid=117090337066293210322&rtpof=true&sd=true",
+                url: "https://docs.google.com/presentation/d/1zRQ-8DunK-_zKy98hx3zSXnv6Ki3ogYa/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
                 type: "ppt",
             },
         ],
-        tareas: [],
+        tareas: [
+            {
+                name: "Trabajo Sem 3",
+                url: "https://docs.google.com/document/d/1CRXeCdHmU6a48y2cex0SZO-0KOa0Tp5GKUfctnkp150/edit?usp=sharing",
+                type: "word",
+            },
+            {
+                name: "Ejercicios Lisp",
+                url: "https://docs.google.com/document/d/1bE8syQ5h76pS8mcfSOzSjJgLxeawfxaa/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                type: "word",
+            },
+        ],
     },
     {
         clases: [
