@@ -1,5 +1,14 @@
 const getNumSemana = (numSemana) => {
+    if (numSemana < 4) {
         return numSemana;
+    }
+    const newNumSemana = numSemana + 1;
+
+    if (numSemana === 4) {
+        return `${numSemana} / ${newNumSemana}`;
+    } else {
+        return `${newNumSemana}`;
+    }
 };
 
 const Trabajo = (index, clases, tareas) => {
