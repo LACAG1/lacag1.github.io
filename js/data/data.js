@@ -61,11 +61,6 @@ const TRABAJOS = [
         ],
         tareas: [
             {
-                name: "Trabajo Sem 4",
-                url: "https://docs.google.com/document/d/1dOd0nz1dtn3pdP75aPa5osuGb_QoWkYIla_Gnj7Ldm4/edit?usp=sharing",
-                type: "word",
-            },
-            {
                 name: "Ejercicios Lisp",
                 url: "https://docs.google.com/document/d/1gr3JoJgAY1i7E4EN2pgIa5VRXAUd8Lnj/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
                 type: "word",
