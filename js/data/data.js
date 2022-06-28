@@ -62,6 +62,42 @@ const TRABAJOS = [
             },
         ],
     },
+    {
+        clases: [
+            {
+                name: "Clase 05",
+                url: "https://docs.google.com/presentation/d/1UHoKzLNLnHidLZcE9Q3CXosyjvL-jV6i/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                type: "ppt",
+            },
+        ],
+        tareas: [],
+    },
+    {
+        clases: [
+            {
+                name: "Clase 06",
+                url: "https://docs.google.com/presentation/d/13NsKzVmnkhcq0gUENFTNjbLHg45MowEg/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                type: "ppt",
+            },
+        ],
+        tareas: [],
+    },
+    {
+        clases: [
+            {
+                name: "Clase 07",
+                url: "https://docs.google.com/presentation/d/1Zee9IbaHH6nGNvxPWXRTmt9P5YeEheMv/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                type: "ppt",
+            },
+        ],
+        tareas: [
+            {
+                name: "List Comprehension",
+                url: "https://docs.google.com/presentation/d/1tBQrLIWvNJ8hHJPOO-3UsROJatL9VySK/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                type: "ppt",
+            }
+        ],
+    },
 ];
 
 const SILABO = [
@@ -97,7 +133,30 @@ const SILABO = [
         subtemas: [
             "La función evaluadora",
             "Métodos de búsqueda ciega o no informados: amplitud, profundidad y no determinísticos",
+        ],
+    },
+    {
+        tema: "Métodos de búsqueda ciegos e informados",
+        subtemas: [
             "Métodos que usan información adicional: Primero el mejor, Ascenso a la colina, A*, ramificación y acotación",
         ],
+    },
+    {
+        tema: "Métodos de búsqueda para juegos Humano - Máquina",
+        subtemas: [
+            "Algoritmo de juego Humano - Máquina",
+            "Estrategia de juego de máquina: no determinístico, primero el mejor, min-max y alfa-beta",
+        ],
+    },
+    {
+        tema: "Presentación de trabajos computacionales",
+        subtemas: [
+            "Los alumnos mostrarán sus habilidades en cuanto al desarrollo de Software de juegos inteligentes basados en técnicas de búsqueda",
+            "Se deberá presentar un informe y un software, y deberán exponer sus trabajos.",
+        ],
+    },
+    {
+        tema: "Examen parcial",
+        subtemas: [],
     },
 ];
