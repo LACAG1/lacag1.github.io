@@ -104,6 +104,10 @@ const TRABAJOS = [
             }
         ],
     },
+    {
+        clases: [],
+        tareas: [],
+    },
 ];
 
 const SILABO = [
