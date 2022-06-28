@@ -56,7 +56,7 @@ const TRABAJOS = [
         ],
         tareas: [
             {
-                name: "Ejercicios Lisp",
+                name: "Ejercicios Lisp 2",
                 url: "https://docs.google.com/document/d/1gr3JoJgAY1i7E4EN2pgIa5VRXAUd8Lnj/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
                 type: "word",
             },
@@ -72,7 +72,7 @@ const TRABAJOS = [
         ],
         tareas: [
             {
-                name: "Ejercicios Lisp 2",
+                name: "Ejercicios Lisp 3",
                 url: "https://docs.google.com/document/d/16M8bM2FzjvrM3jP-5F1tWRa_P1cI3kYq/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
                 type: "word",
             },
