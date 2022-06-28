@@ -70,7 +70,13 @@ const TRABAJOS = [
                 type: "ppt",
             },
         ],
-        tareas: [],
+        tareas: [
+            {
+                name: "Ejercicios Lisp 2",
+                url: "https://docs.google.com/document/d/16M8bM2FzjvrM3jP-5F1tWRa_P1cI3kYq/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                type: "word",
+            },
+        ],
     },
     {
         clases: [
