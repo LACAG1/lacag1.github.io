@@ -94,7 +94,7 @@ const TRABAJOS = [
             {
                 name: "List Comprehension",
                 url: "https://docs.google.com/presentation/d/1tBQrLIWvNJ8hHJPOO-3UsROJatL9VySK/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
-                type: "ppt",
+                type: "word",
             }
         ],
     },
