@@ -108,6 +108,80 @@ const TRABAJOS = [
         clases: [],
         tareas: [],
     },
+    {
+        clases: [
+            {
+                name: "Clase 09",
+                url: "https://docs.google.com/presentation/d/1cRHOZh6P6RuIuUNwDlyXGrN4B6D96Soz/edit?usp=sharing&ouid=117090337066293210322&rtpof=true&sd=true",
+                type: "ppt",
+            },
+        ],
+        tareas: [
+            {
+                name: "Fundamento de sistemas expertos",
+                url: "https://docs.google.com/presentation/d/1SVshSIc0lfruK2ATUBrtz-DKDhWo8-vx/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                type: "word",
+            },
+        ],
+    },
+    {
+        clases: [
+            {
+                name: "Clase 10",
+                url: "https://docs.google.com/presentation/d/1vPh-MGQByUqZvH5rU1TYfN5zRKrOhmhS/edit?usp=sharing&ouid=117090337066293210322&rtpof=true&sd=true",
+                type: "ppt",
+            },
+        ],
+        tareas: [
+            {
+                name: "Ingenieria del conocimiento",
+                url: "https://docs.google.com/presentation/d/1IzqCrP-jzKcf9Ic47fBpxiYbVyv6BVrd/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                type: "word",
+            },
+        ],
+    },
+    {
+        clases: [
+            {
+                name: "Clase 11",
+                url: "https://docs.google.com/presentation/d/16b0nZsjOWILHttNm-0qeKQH0Luo_6lMb/edit?usp=sharing&ouid=117090337066293210322&rtpof=true&sd=true",
+                type: "ppt",
+            },
+        ],
+        tareas: [
+            {
+                name: "DESARROLLO DE SISTEMAS EXPERTOS BASADOS EN REGLAS",
+                url: "https://docs.google.com/presentation/d/16JsEcPafjdcsBQn0fln6kwBO_8KaVaFJ/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                type: "word",
+            },
+        ],
+    },
+    {
+        clases: [
+            {
+                name: "Clase 12",
+                url: "https://docs.google.com/presentation/d/1CkGUTvoCdvKqPxmTClZDpw-4eFp_lxB6/edit?usp=sharing&ouid=117090337066293210322&rtpof=true&sd=true",
+                type: "ppt",
+            },
+        ],
+        tareas: [
+            {
+                name: "RAZONAMIENTO APROXIMADO",
+                url: "https://docs.google.com/presentation/d/1TdipxWZyDQ6VH4CXGgUmhxCCKxRXesbd/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                type: "word",
+            },
+        ],
+    },
+    {
+        clases: [
+            {
+                name: "Clase 13",
+                url: "https://docs.google.com/presentation/d/1zBo0Bi2iS_Ws2t1Th69kOFF9BdMZNQn8/edit?usp=sharing&ouid=117090337066293210322&rtpof=true&sd=true",
+                type: "ppt",
+            },
+        ],
+        tareas: [],
+    },
 ];
 
 const SILABO = [
@@ -168,5 +242,52 @@ const SILABO = [
     {
         tema: "Examen parcial",
         subtemas: [],
+    },
+    {
+        tema: "Fundamentos de Sistemas Expertos",
+        subtemas: [
+            "Definicion de Sistemas Expertos.",
+            "Arquitectura de un sistema experto. Taxonomía y aplicaciones de los sistemas expertos",
+            "Requisitos para el desarrollo de sistemas expertos y ventajas del uso de sistemas expertos",
+            "Algunos problemas basados en el conocimiento",
+        ],
+    },
+    {
+        tema: "Ingeniería de conocimiento",
+        subtemas: [
+            "Introducción",
+            "Adquisición de conocimiento",
+            "La metodología CommonKADS",
+            "Diseño de Sistemas Expertos(SE)",
+            "Ciclo de vide de un SE",
+        ],
+    },
+    {
+        tema: "Aquisición de conocimiento",
+        subtemas: [
+            "Adquisición de conocimiento",
+            "Construcción dela base de hechos y base de conocimientos",
+            "Estructuras de representación de conocimientos (Reglas de Referencia, frames, objects, redes semánticas, lógica de predicados)",
+        ],
+    },
+    {
+        tema: "Desarrollo de sistemas expertos basados en reglas",
+        subtemas: [
+            "Construcción dela base de hechos y base de conocimientos",
+            "El motor de inferencia",
+            "Los métodos de encadenamiento regresivo, progresivo y reversibilidad",
+            "Técnicas de equiparación, el algoritmo RETE",
+            "Técnicas de resolución de conflictos",
+        ],
+    },
+    {
+        tema: "Calidad y validación de sistemas expertos",
+        subtemas: [
+            "Principales errores en el desarrollo de un sistema experto",
+            "Calidad de un sistema experto",
+            "Validación de sistemas inteligentes, métodos cuantitativos de validación",
+            "Eficiencia y error de sistemas expertos",
+            "Revisión de la funcionalidad del SE del 2do trabajo",
+        ],
     },
 ];
