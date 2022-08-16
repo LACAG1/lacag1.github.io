@@ -182,7 +182,7 @@ const TRABAJOS = [
         clases: [
             {
                 name: "Clase 13",
-                url: "https://docs.google.com/presentation/d/1zBo0Bi2iS_Ws2t1Th69kOFF9BdMZNQn8/edit?usp=sharing&ouid=117090337066293210322&rtpof=true&sd=true",
+                url: "https://docs.google.com/presentation/d/1iGCemyvp0ZiHrxNxZMpQXu96EesgEqWQ/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
                 type: "ppt",
             },
         ],
@@ -198,7 +198,7 @@ const TRABAJOS = [
         clases: [
             {
                 name: "Clase 14",
-                url: "https://docs.google.com/presentation/d/1s-NMN91hkJ23gmj0hl7GukbcnL7HXgtI/edit?usp=sharing&ouid=117090337066293210322&rtpof=true&sd=true",
+                url: "https://docs.google.com/presentation/d/13SVOfebf1H9bPGfTfyGlLn2FLr7DhAOo/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
                 type: "ppt",
             },
         ],
