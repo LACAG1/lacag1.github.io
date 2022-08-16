@@ -106,70 +106,76 @@ const TRABAJOS = [
     },
     {
         clases: [],
-        tareas: [],
+        tareas: [
+            {
+                name: "EP",
+                url: "https://docs.google.com/document/d/1qCajzrvBRzi29eprd3tkT17dHNpHZHgp/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                type: "word",
+            }
+        ],
     },
     {
         clases: [
             {
                 name: "Clase 09",
-                url: "https://docs.google.com/presentation/d/1cRHOZh6P6RuIuUNwDlyXGrN4B6D96Soz/edit?usp=sharing&ouid=117090337066293210322&rtpof=true&sd=true",
+                url: "https://docs.google.com/presentation/d/1SVshSIc0lfruK2ATUBrtz-DKDhWo8-vx/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
                 type: "ppt",
             },
         ],
         tareas: [
             {
-                name: "Fundamento de sistemas expertos",
-                url: "https://docs.google.com/presentation/d/1SVshSIc0lfruK2ATUBrtz-DKDhWo8-vx/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                name: "PROLOG",
+                url: "https://drive.google.com/file/d/1bCsVgSL3zABNv1sveR7N2snlCeWdCh_u/view?usp=sharing",
                 type: "word",
-            },
+            }
         ],
     },
     {
         clases: [
             {
                 name: "Clase 10",
-                url: "https://docs.google.com/presentation/d/1vPh-MGQByUqZvH5rU1TYfN5zRKrOhmhS/edit?usp=sharing&ouid=117090337066293210322&rtpof=true&sd=true",
+                url: "https://docs.google.com/presentation/d/1IzqCrP-jzKcf9Ic47fBpxiYbVyv6BVrd/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
                 type: "ppt",
             },
         ],
         tareas: [
             {
-                name: "Ingenieria del conocimiento",
-                url: "https://docs.google.com/presentation/d/1IzqCrP-jzKcf9Ic47fBpxiYbVyv6BVrd/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                name: "PROLOG",
+                url: "https://drive.google.com/file/d/1XbuntWrlG_eMhHiNJwtRa1fvfQ0R0Y6N/view?usp=sharing",
                 type: "word",
-            },
+            }
         ],
     },
     {
         clases: [
             {
                 name: "Clase 11",
-                url: "https://docs.google.com/presentation/d/16b0nZsjOWILHttNm-0qeKQH0Luo_6lMb/edit?usp=sharing&ouid=117090337066293210322&rtpof=true&sd=true",
+                url: "https://docs.google.com/presentation/d/16JsEcPafjdcsBQn0fln6kwBO_8KaVaFJ/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
                 type: "ppt",
             },
         ],
         tareas: [
             {
-                name: "DESARROLLO DE SISTEMAS EXPERTOS BASADOS EN REGLAS",
-                url: "https://docs.google.com/presentation/d/16JsEcPafjdcsBQn0fln6kwBO_8KaVaFJ/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                name: "PROLOG",
+                url: "https://drive.google.com/file/d/1gBbYwoO149_mWABfTXKZo6DfDs4uY_N4/view?usp=sharing",
                 type: "word",
-            },
+            }
         ],
     },
     {
         clases: [
             {
                 name: "Clase 12",
-                url: "https://docs.google.com/presentation/d/1CkGUTvoCdvKqPxmTClZDpw-4eFp_lxB6/edit?usp=sharing&ouid=117090337066293210322&rtpof=true&sd=true",
+                url: "https://docs.google.com/presentation/d/1TdipxWZyDQ6VH4CXGgUmhxCCKxRXesbd/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
                 type: "ppt",
             },
         ],
         tareas: [
             {
-                name: "RAZONAMIENTO APROXIMADO",
-                url: "https://docs.google.com/presentation/d/1TdipxWZyDQ6VH4CXGgUmhxCCKxRXesbd/edit?usp=sharing&ouid=109038644599731078290&rtpof=true&sd=true",
+                name: "PROLOG",
+                url: "https://drive.google.com/file/d/1PmXtkJmsEfvIDDW9T9yozey_tsPmyNPn/view?usp=sharing",
                 type: "word",
-            },
+            }
         ],
     },
     {
@@ -180,6 +186,36 @@ const TRABAJOS = [
                 type: "ppt",
             },
         ],
+        tareas: [
+            {
+                name: "PROLOG",
+                url: "https://drive.google.com/file/d/1fz4ogKf7k2SH_yV6fTbrt4VQF-ULtjwD/view?usp=sharing",
+                type: "word",
+            }
+        ],
+    },
+    {
+        clases: [
+            {
+                name: "Clase 14",
+                url: "https://docs.google.com/presentation/d/1s-NMN91hkJ23gmj0hl7GukbcnL7HXgtI/edit?usp=sharing&ouid=117090337066293210322&rtpof=true&sd=true",
+                type: "ppt",
+            },
+        ],
+        tareas: [
+            {
+                name: "PROLOG",
+                url: "https://drive.google.com/file/d/1DFIy9AoI8-QkhCPifdKsjFgjE8ZJYLfm/view?usp=sharing",
+                type: "word",
+            }
+        ],
+    },
+    {
+        clases: [],
+        tareas: [],
+    },
+    {
+        clases: [],
         tareas: [],
     },
 ];
@@ -289,5 +325,29 @@ const SILABO = [
             "Eficiencia y error de sistemas expertos",
             "Revisión de la funcionalidad del SE del 2do trabajo",
         ],
+    },
+    {
+        tema: "Introducción a Machine Learning",
+        subtemas: [
+            "Conceptos de aprendizaje y de machine learning",
+            "Sistemas experto vs machine learning.",
+            "Técnicas de aprendizaje y fases de desarrollo de machine learning",
+            "Aplicaciones de machine learning en la industria y servicios",
+            "Conceptos de heurísticas y meta-heurísticas",
+            "Algoritmos exactos vs algoritmos heurísticos",
+            "Técnicas heurísticas y meta-heurísticas",
+            "Problemas de optimización combinatoria en la industria y servicios",
+        ],
+    },
+    {
+        tema: "Presentación de trabajos computacionales",
+        subtemas: [
+            "Los alumnos mostrarán sus habilidades en cuanto al desarrollo de software de juegos inteligentes basados en técnicas de búsqueda",
+            "Se deberá presentar un informe y un software, y deberán exponer sus trabajos",
+        ],
+    },
+    {
+        tema: "Examen Final",
+        subtemas: [],
     },
 ];
